@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlashBang</string>
+
+    <string name="ringing_channel_name">Ringing alarm</string>
+    <string name="ringing_channel_description">Shown while a FlashBang alarm is ringing. Sound is played by the alarm itself, not this notification.</string>
+    <string name="ringing_notification_title">Alarm ringing</string>
+    <string name="ringing_notification_text">Answer your flashcard to stop the alarm</string>
+
+    <string name="challenge_dev_dismiss">Dismiss (dev)</string>
+    <string name="challenge_load_error">Couldn\'t load your card — dismiss to stop the alarm</string>
+
+    <!-- TODO(product): placeholder copy pending owner review (RD-002). -->
+    <string name="overlay_permission_rationale">Optional: let FlashBang bring the flashcard back on screen if you switch apps while the alarm is ringing. Without this, the alarm simply keeps ringing until you answer. You can change this anytime in Settings.</string>
+    <string name="overlay_opt_in_button">Enable “Prevent phone use” (optional)</string>
+
+    <string name="notification_denied_warning">Without notifications, you won\'t get a shortcut back to a ringing alarm — but the alarm will still ring and show over your lock screen.</string>
+</resources>
